@@ -5,8 +5,5 @@
   "repository": "https://github.com/KaoruToda/webpack-app01",
   "author": "Kaoru Toda",
   "license": "MIT",
-  "dependencies": {
-    "grpc": "1.1.2",
-    "jQuery": "^1.7.4"
-  }
+  "dependencies": {}
 }
